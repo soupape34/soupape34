@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Rémi 👋
 
-<!--
-**soupape34/soupape34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer · Technical Founder · Distributed Systems**
 
-Here are some ideas to get you started:
+I build backend infrastructure and products designed to operate at scale.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building **Scénaro**, a platform for creating real-time voice and multimodal experiences, and experimenting with **Indexus**, a distributed peer-to-peer indexing system.
+
+Previously at **Adobe**, and later at **Adagio**, where I worked on high-throughput advertising infrastructure processing billions of requests per day.
+
+### What I work on
+
+* **Distributed systems** — partitioning, replication, consistency, failure handling
+* **Backend engineering** — Go, APIs, asynchronous systems, queues
+* **Data infrastructure** — PostgreSQL, vector search, high-throughput ingestion
+* **Real-time AI** — voice agents, multimodal systems, LiveKit
+* **Cloud infrastructure** — AWS, GCP, Docker, Terraform
+
+### Currently exploring
+
+I'm particularly interested in distributed indexing and dynamic sharding.
+
+My current experiments around **Indexus** explore predictable data ownership, XOR-based routing, dynamic rebalancing and horizontally scalable indexing.
+
+### Selected work
+
+**Scenaro**
+Real-time conversational infrastructure combining voice, text and synchronized visual interfaces.
+
+**Indexus**
+Experiments around decentralized indexing, distributed storage and high-throughput data ingestion.
+
+**Adagio**
+Backend and data infrastructure for programmatic advertising, including systems operating at multi-billion-request/day scale and large-scale asynchronous crawling pipelines.
+
+---
+
+Go · PostgreSQL · Distributed Systems · AWS · GCP · Terraform · Docker · LiveKit
+
+[scenaro.io](https://scenaro.io) · [indexus.io](https://indexus.io)
